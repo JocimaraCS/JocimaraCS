@@ -4,7 +4,7 @@
   
    <br>
 
-- 🎓 Bachelor's in Chemistry with a postgraduated in electrochemical biosensors
+- 🎓 Bachelor's in Chemistry with a postgraduate in electrochemical biosensors
   
 - 📋 knowledge in Python and JavaScript
   
