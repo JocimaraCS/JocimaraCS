@@ -1,6 +1,6 @@
-# <div align="center">👋 ***Hey there, I'm Jocimara!***</div>
+![greetings](https://github.com/JocimaraCS/image/blob/main/LogoGit.png)
  
- <br>I am a passionate for learning new things 
+  I am a passionate for learning new things 
  
 - 🎓 Bachelor's in Chemistry with a postgraduated in electrochemical biosensors
   
