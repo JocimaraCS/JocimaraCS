@@ -1,4 +1,4 @@
-# <img width="30%" alt="greetings" src="https://github.com/JocimaraCS/image/blob/main/LogoGit.png">
+<picture> <img width="30%" alt="greetings" src="https://github.com/JocimaraCS/image/blob/main/LogoGit.png"></picture>
  
   I am a passionate about learning new things 
   
