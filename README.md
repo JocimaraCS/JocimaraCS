@@ -1,7 +1,8 @@
 ![greetings](https://github.com/JocimaraCS/image/blob/main/LogoGit.png)
  
   I am a passionate for learning new things 
- 
+  
+  <br>
 - 🎓 Bachelor's in Chemistry with a postgraduated in electrochemical biosensors
   
 - 📋 knowledge in Python and JavaScript
